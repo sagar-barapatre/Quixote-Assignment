@@ -1,0 +1,4 @@
+{
+  "jwkPrivateKey": "",
+  "db": "mongodb://localhost/booksDB"
+}
